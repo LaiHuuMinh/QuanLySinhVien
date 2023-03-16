@@ -22,6 +22,9 @@ public class Main {
 
             String c = new Scanner(System.in).nextLine();
 
+
+
+            
             switch (c){
                 case "1":
                     qlsv.inputData();
